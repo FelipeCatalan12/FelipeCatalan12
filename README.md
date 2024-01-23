@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Catalán</h1>
 <h3 align="center">A passionate programming student from Chile</h3>
 
-- 🔭 I’m currently working on **Django-React CRUD**
+- 🔭 I’m currently working on **Django CRUD**
 
-- 🌱 I’m currently learning **Django, React**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python**
 
