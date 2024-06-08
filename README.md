@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Felipe Catalán</h1>
+<h1 align="center">Hi 👋, I'm Felipe Catalan</h1>
 <h3 align="center">A passionate programming student from Chile</h3>
 
-- 🔭 I’m currently working on **Django CRUD**
-
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Python**
 
